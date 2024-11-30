@@ -1,0 +1,22 @@
+img {
+    width: 100%;
+    border: 5px solid rgb(134, 155, 125);
+}
+
+#carnet {
+    width: 125px;
+}
+
+h2 {
+    background-color: rgb(134, 155, 125);
+    border: 5px solid rgb(134, 155, 125);
+}
+
+div {
+    padding: 5px;
+}
+
+body {
+    padding-bottom: 50px;
+    background-color: rgb(212, 210, 210);
+}

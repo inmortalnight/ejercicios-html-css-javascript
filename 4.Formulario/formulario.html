@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="formulario.css">
+</head>
+<body>
+    <h1>Inscription form</h1>
+    <form method="post">
+        <label for="name">Name: </label>
+        <input type="text" id="name" name="name" maxlength="30" placeholder="Your name"><br>
+        <label for="surname">Surname:</label>
+        <input type="text" id="surname" name="surname" maxlength="30" placeholder="Your surname"><br>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" placeholder="example@email.com" required><br>
+        <label for="subject">Subject:</label>
+        <select name="subject" id="subject" size="3">
+            <option value="quote">Request a quote</option>
+            <option value="appointment">Request an appointment</option>
+            <option value="other">Other</option>
+        </select><br>
+        <label for="find_us">How did you find us?</label>
+        <select name="find_us" id="find_us" size="3">
+            <option value="friend">By a friend</option>
+            <option value="social_media">By social media</option>
+            <option value="email">By email</option>
+            <option value="ad">By an ad</option>
+        </select><br>
+        <label for="message">What do you want to say?</label>
+        <textarea name="message" id="message" maxlength="300" placeholder="Write a message"></textarea><br><br>
+        <input type="checkbox" name="terms_conditions" id="terms_conditions" required>
+        <label>I agree to the <a href="https://gdpr-info.eu/">terms and conditions.</a></label><br><br>
+        <button>Submit</button>
+    </form>
+</body>
+</html>

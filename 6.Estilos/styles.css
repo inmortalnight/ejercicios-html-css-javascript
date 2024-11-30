@@ -1,0 +1,67 @@
+.p1>h2:hover {
+    color: green;
+}
+.p2>h2:hover {
+    font-size: 50px;
+}
+.p3>h2:hover {
+    font-style: italic;
+}
+
+p {
+    color: green;
+    border: 1px solid green;
+}
+
+h2 {
+    color: red;
+    border: 1px solid red;
+}
+
+h3 {
+    color: orange;
+    border: 1px solid orange;
+}
+
+.p1>p:first-of-type, .p1>p:nth-of-type(2), .p1>h2:first-of-type, .p1>h3:first-of-type, .p3>h2>strong{
+    border: 0px;
+}
+
+.p1>p:first-of-type {
+    background-color: yellow;
+}
+
+em {
+    color:magenta;
+    
+}
+
+p>em, #error {
+    border: 1px solid magenta;
+}
+
+u {
+    color: purple;
+}
+
+strong {
+    color: maroon;
+    border: 1px solid maroon;
+}
+
+span{
+    background-color: yellow;
+    border: 1px solid green;
+}
+
+.black {
+    background-color: black;
+}
+
+.p2 {
+    border: 1px solid black;
+}
+.p3 {
+    border: 1px solid black;
+    background-color: gray;
+}
