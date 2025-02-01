@@ -26,7 +26,7 @@ Probando múltiples estilos css.
 
 ## 7. Básico java
 
-Ejercicios básicos java. Ver más en el [archivo](7.Basico js/basico-js.md)
+Ejercicios básicos java. Ver más en el [archivo](7.Basicojs/basico-js.md)
 
 ## 8. Estilos
 
