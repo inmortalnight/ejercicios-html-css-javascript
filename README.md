@@ -1,4 +1,4 @@
-# Ejercicios-html-css
+# Ejercicios-html-css-javascript
 
 ## 1.Básico
 
