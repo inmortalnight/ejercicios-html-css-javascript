@@ -2,7 +2,7 @@
 
 ## 1.Básico
 
-Ejercicios básicos introductorios al css y html.
+Ejercicios básicos introductorios al css y html. Ver más en el [archivo](basico.md)
 
 ## 2. CV
 
@@ -23,3 +23,15 @@ Una página web sobre recetas y comida sencilla.
 ## 6. Estilos
 
 Probando múltiples estilos css.
+
+## 7. Básico java
+
+Ejercicios básicos java. Ver más en el [archivo](basico-js.md)
+
+## 8. Estilos
+
+Usando switch para redirigir las respuestas, se muestran fotos de las ciudades turísticas según la elección que se haga por pantalla.
+
+## 9. Ropa
+
+Usando un array para contener los directorios, se crea muestra la prenda que se elija por pantalla.
