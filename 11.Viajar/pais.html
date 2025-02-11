@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selección de Viaje</title>
+    <link rel="stylesheet" href="pais.css">
+    <script src="pais.js" defer></script>
+</head>
+<body>
+
+    <div class="container">
+        <h2>¿Dónde quieres viajar?</h2>
+        <p id="destino">Selecciona un destino</p>
+        <select id="pais" onchange="cambiarDestino()">
+            <option value="Elige">Elige un país</option>
+            <option value="Francia">Francia</option>
+            <option value="Italia">Italia</option>
+            <option value="Alemania">Alemania</option>
+            <option value="Portugal">Portugal</option>
+            <option value="España">España</option>
+        </select>
+
+        <div>
+            <img id="imagen" src="marten-bjork-wGu1pzDSm3g-unsplash.jpg" alt="Imagen de viaje">
+        </div>
+    </div>
+
+
+</body>
+</html>
