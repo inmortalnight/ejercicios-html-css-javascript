@@ -9,7 +9,7 @@ Un cv simple usando html y css básico.
 
 ## 3. Mario
 Una página web simple con temática Mario Bros.
-[Ver página](3.Mario/introduccion.html)
+[Ver página](3.Mario\menu.html)
 
 ## 4. Formulario
 Un formulario simple con requisitos mínimos. 
@@ -32,7 +32,7 @@ Usando switch para redirigir las respuestas, se muestran fotos de las ciudades t
 
 ## 9. Ropa
 Usando un array para contener los directorios, se crea muestra la prenda que se elija por pantalla.
-[Ver página](9.Ropa/numeros.html)
+[Ver página](9.Ropa\imagenes.html)
 
 ## 10. Menú
 Usando el script javascript para cargar todos los elementos de la página, se muestra una página sencilla para seleccionar y pagar el menú que se elija. 
