@@ -49,3 +49,7 @@ Una página sencilla que muestra unas películas y los links a sus respectivas p
 ## 13. Galería de montaña
 Muestra una galería hecha de javascript como miniaturas y al pasar por encima de ellas, se muestra en la imagen principal.
 [Ver página](13.Montaña/nodos.html)
+
+## 14. Maquetación de una página de noticias
+Usando javascript para cargar todos los elementos de la página de noticias y estilo usando css.
+[Ver página](14.Maquetacion/maquetacion.html)
