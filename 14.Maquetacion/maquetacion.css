@@ -1,0 +1,46 @@
+.cabecera {
+    text-align: center;
+}
+#logo {
+    max-width: 120px;
+}
+#navbar {
+    background-color: red;
+    padding: 7px 10px;
+}
+
+a {
+    margin: 8px;
+    color: white;
+    text-decoration: None;
+    size: 3px;
+}
+.seccion1 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+}
+#imgTitular {
+    max-width: 50%;
+}
+.entradas {
+    display: flex;
+    margin-top: 30px;
+}
+.caja {
+    margin: 10px;
+}
+.caja > p {
+    font-weight: bold;
+}
+img {
+    max-width: 100%;
+}
+button {
+    background-color: red;
+    border-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 8px;
+}
